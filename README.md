@@ -18,7 +18,7 @@ Here's a bit about myself:
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/timlimytn/" target="blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/npm/super-tiny-icons@0.5.0/images/svg/gmail.svg" /> timlimytn
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/npm/super-tiny-icons@0.5.0/images/svg/gmail.svg" /> timlimytn@gmail.com
   
 </p>
 
